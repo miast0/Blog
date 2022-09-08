@@ -1,0 +1,37 @@
+baseURL = "https://miasto.github.io"
+title = "Miast.io"
+theme = "hugo-theme-hello-friend-ng"
+languageCode = 'en-us'
+
+paginate  = 15
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  homeSubtitle = "Security based blog and ramblings"
+  enableSharingButtons = false
+  description = "Homepage"
+
+[taxonomies]
+  category = "blog"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts"
+
+[[params.social]]
+  name = "github"
+  url = "https://www.github.com/miast0"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/miastoDB"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/dean-brennan-a249a2178/"
