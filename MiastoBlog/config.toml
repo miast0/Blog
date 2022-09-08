@@ -1,4 +1,4 @@
-baseURL = "https://miasto.github.io"
+baseURL = "https://miast0.github.io"
 title = "Miast.io"
 theme = "hugo-theme-hello-friend-ng"
 languageCode = 'en-us'

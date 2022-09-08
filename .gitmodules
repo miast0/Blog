@@ -1,4 +1,4 @@
 [submodule "MiastoBlog/public"]
 	path = MiastoBlog/public
-	url = https://github.com/miast0/miasto.github.io.git
+	url = https://github.com/miast0/miast0.github.io.git
 	branch = main
